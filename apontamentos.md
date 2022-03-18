@@ -104,7 +104,7 @@ Accept-Ranges: bytes
 Content-Length: 29769
 Content-Type: text/html
 
-<!DOCTYPE html... (here comes the 29769 bytes of the requested web page)
+
 
 4 . Fecha ou reutiliza a conexão para requisições futuras
 
@@ -151,11 +151,17 @@ A API mais utilizada construída em cima do HTTP é a XMLHttpRequest, que pode s
 
 Outra API, de eventos enviados pelo servidor, é um serviço de mão-única que permite um servidor enviar eventos ao cliente, usando HTTP como um mecanismo de transporte. Usando a interface EventSource, o cliente abre uma conexão e estabelece os manipuladores de evento. O navegador do cliente converte automaticamente as mensagens que chegam pelo fluxo HTTP em objetos Event apropriados, entregando-os aos manipuladores de evento que foram registrados para os tipos de eventos type se conhecidos, ou para o manipulador de evento onmessage (en-US) se nenhum manipulador de evento específico ao tipo foi definido.
 
+
+
+
+
 **Conclusão**
 
 O HTTP é um protocolo extensível que é fácil de se usar. A arquitetura cliente-servidor, combinada com a habilidade de simplesmente adicionar cabeçalhos, permite que o HTTP avance suas funcionalidades juntamente com a elasticidade da Web.
 
 Embora o HTTP/2.0 adicione mais complexidade, embutindo mensagens HTTP em quadros para melhorar a performance, a estrutura básica das mensagens continua a mesma desde o HTTP/1.0. Fluxo de sessões permanece simples, permitindo-o a ser investigado, e depurado com um simples monitor de mensagens HTTP.
+
+
 
 ## Glosário
 
