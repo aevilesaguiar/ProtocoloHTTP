@@ -104,7 +104,7 @@ Accept-Ranges: bytes
 Content-Length: 29769
 Content-Type: text/html
 
-<!DOCTYPE html... (here comes the 29769 bytes of the requested web page)
+
 
 4 . Fecha ou reutiliza a conexão para requisições futuras
 
