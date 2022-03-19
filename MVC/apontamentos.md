@@ -79,8 +79,8 @@ você carrega a página de perfil.
 
 ## Referencias
 
-[MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
-[MVC](https://www.linkedin.com/pulse/o-que-%C3%A9-padr%C3%A3o-de-arquitetura-mvc-alexandre-d%C3%B3rea/?originalSubdomain=pt)
+- [MVC](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
+- [MVC EXEMPLO](https://www.linkedin.com/pulse/o-que-%C3%A9-padr%C3%A3o-de-arquitetura-mvc-alexandre-d%C3%B3rea/?originalSubdomain=pt)
 
 
 
